@@ -1206,9 +1206,6 @@ vendor/lib/libois_lc898122.so
 # Camera sensors
 vendor/lib/libmmcamera_imx214.so
 vendor/lib/libmmcamera_imx230.so
-vendor/lib/libmmcamera_imx258_gt24c16_eeprom.so
-vendor/lib/libmmcamera_imx258_gt24c32_eeprom.so
-vendor/lib/libmmcamera_imx258_mono_gt24c32_eeprom.so
 vendor/lib/libmmcamera_imx258_mono.so
 vendor/lib/libmmcamera_imx258.so
 vendor/lib/libmmcamera_imx298.so
