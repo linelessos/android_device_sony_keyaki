@@ -20,8 +20,7 @@ $(call inherit-product, vendor/sony/keyaki/keyaki-vendor.mk)
 
 # Local overlays
 DEVICE_PACKAGE_OVERLAYS += \
-    $(LOCAL_PATH)/overlay \
-    $(LOCAL_PATH)/overlay-lineage
+    $(LOCAL_PATH)/overlay
 
 # Inherit from tone-common
 $(call inherit-product, device/sony/tone-common/tone.mk)

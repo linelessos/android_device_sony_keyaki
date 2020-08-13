@@ -23,9 +23,6 @@ DEVICE_PATH := device/sony/keyaki
 # Assert
 TARGET_OTA_ASSERT_DEVICE := keyaki,keyaki_dsds,G8231,G8232
 
-# HIDL
-DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
-
 # Kernel
 TARGET_KERNEL_CONFIG := tone_keyaki_defconfig
 
