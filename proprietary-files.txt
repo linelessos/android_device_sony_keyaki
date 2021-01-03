@@ -70,7 +70,6 @@ vendor/lib/libmmcamera_tuning.so
 vendor/lib/libmmcamera_ubifocus_lib.so
 vendor/lib/libmmjpeg_interface.so
 vendor/lib/libmmjpeg.so
-vendor/lib/libmm-omxcore.so
 vendor/lib/libmmosal_proprietary.so
 vendor/lib/libmm-qcamera.so
 vendor/lib/libmmqjpeg_codec.so
